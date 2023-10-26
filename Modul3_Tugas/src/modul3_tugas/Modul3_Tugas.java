@@ -1,6 +1,6 @@
 package modul3_tugas;
 
-public class Modul3_Tugas {
+public class Main {
 
     /**
      * @param args the command line arguments
